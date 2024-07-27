@@ -1,0 +1,303 @@
+INFO | 2024-07-27 15:52:02 | Extracted: Industrial and Commercial Bank of China, 6303.44, China
+INFO | 2024-07-27 15:52:02 | Extracted: Agricultural Bank of China, 5623.12, China
+INFO | 2024-07-27 15:52:02 | Extracted: China Construction Bank, 5400.28, China
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of China, 4578.28, China
+INFO | 2024-07-27 15:52:02 | Extracted: JPMorgan Chase, 3875.39, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of America, 3180.15, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: HSBC, 2919.84, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: BNP Paribas, 2867.44, France
+INFO | 2024-07-27 15:52:02 | Extracted: Mitsubishi UFJ Financial Group, 2816.77, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Crédit Agricole, 2736.95, France
+INFO | 2024-07-27 15:52:02 | Extracted: Postal Savings Bank of China, 2217.86, China
+INFO | 2024-07-27 15:52:02 | Extracted: Citigroup, 2200.83, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: SMBC Group, 2027.34, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Banco Santander, 1986.36, Spain
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Communications, 1982.89, China
+INFO | 2024-07-27 15:52:02 | Extracted: Wells Fargo, 1932.47, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Mizuho Financial Group, 1923.56, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Barclays, 1891.72, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: Société Générale, 1717.49, France
+INFO | 2024-07-27 15:52:02 | Extracted: UBS, 1717.25, Switzerland
+INFO | 2024-07-27 15:52:02 | Extracted: Groupe BPCE, 1706.80, France
+INFO | 2024-07-27 15:52:02 | Extracted: Goldman Sachs, 1641.59, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Japan Post Bank, 1625.60, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Royal Bank of Canada, 1566.41, Canada
+INFO | 2024-07-27 15:52:02 | Extracted: China Merchants Bank, 1555.30, China
+INFO | 2024-07-27 15:52:02 | Extracted: Deutsche Bank, 1450.57, Germany
+INFO | 2024-07-27 15:52:02 | Extracted: Industrial Bank (China), 1432.59, China
+INFO | 2024-07-27 15:52:02 | Extracted: Toronto-Dominion Bank, 1428.29, Canada
+INFO | 2024-07-27 15:52:02 | Extracted: China CITIC Bank, 1276.63, China
+INFO | 2024-07-27 15:52:02 | Extracted: Crédit Mutuel, 1262.95, France
+INFO | 2024-07-27 15:52:02 | Extracted: Shanghai Pudong Development Bank, 1207.18, China
+INFO | 2024-07-27 15:52:02 | Extracted: Morgan Stanley, 1193.69, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Lloyds Banking Group, 1122.76, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: China Minsheng Bank, 1082.37, China
+INFO | 2024-07-27 15:52:02 | Extracted: ING Group, 1078.35, Netherlands
+INFO | 2024-07-27 15:52:02 | Extracted: Intesa Sanpaolo, 1066.74, Italy
+INFO | 2024-07-27 15:52:02 | Extracted: Scotiabank, 1041.11, Canada
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Montreal, 990.19, Canada
+INFO | 2024-07-27 15:52:02 | Extracted: China Everbright Bank, 955.14, China
+INFO | 2024-07-27 15:52:02 | Extracted: NatWest Group, 882.30, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: UniCredit, 872.90, Italy
+INFO | 2024-07-27 15:52:02 | Extracted: Commonwealth Bank, 868.74, Australia
+INFO | 2024-07-27 15:52:02 | Extracted: Banco Bilbao Vizcaya Argentaria, 857.25, Spain
+INFO | 2024-07-27 15:52:02 | Extracted: Standard Chartered, 822.84, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: La Banque postale, 815.91, France
+INFO | 2024-07-27 15:52:02 | Extracted: Ping An Bank, 787.93, China
+INFO | 2024-07-27 15:52:02 | Extracted: State Bank of India, 780.05, India
+INFO | 2024-07-27 15:52:02 | Extracted: ANZ Group, 769.59, Australia
+INFO | 2024-07-27 15:52:02 | Extracted: Canadian Imperial Bank of Commerce, 726.27, Canada
+INFO | 2024-07-27 15:52:02 | Extracted: DZ Bank, 712.49, Germany
+INFO | 2024-07-27 15:52:02 | Extracted: Norinchukin Bank, 702.03, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: National Australia Bank, 683.41, Australia
+INFO | 2024-07-27 15:52:02 | Extracted: Rabobank, 678.45, Netherlands
+INFO | 2024-07-27 15:52:02 | Extracted: CaixaBank, 671.13, Spain
+INFO | 2024-07-27 15:52:02 | Extracted: Westpac, 664.50, Australia
+INFO | 2024-07-27 15:52:02 | Extracted: U.S. Bancorp, 663.49, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Nordea, 662.71, Finland
+INFO | 2024-07-27 15:52:02 | Extracted: Capital One, 629.99, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Sberbank of Russia, 581.88, Russia
+INFO | 2024-07-27 15:52:02 | Extracted: Commerzbank, 571.64, Germany
+INFO | 2024-07-27 15:52:02 | Extracted: Huaxia Bank, 562.58, China
+INFO | 2024-07-27 15:52:02 | Extracted: PNC Financial Services, 561.58, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: DBS Group, 560.10, Singapore
+INFO | 2024-07-27 15:52:02 | Extracted: Itaú Unibanco, 555.72, Brazil
+INFO | 2024-07-27 15:52:02 | Extracted: KB Financial Group, 551.94, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: Danske Bank, 542.81, Denmark
+INFO | 2024-07-27 15:52:02 | Extracted: Truist Financial Corp, 535.35, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: Shinhan Financial Group, 533.48, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: Resona Holdings, 527.53, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Sumitomo Mitsui Trust Holdings, 520.34, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Beijing, 503.31, China
+INFO | 2024-07-27 15:52:02 | Extracted: China Guangfa Bank, 495.55, China
+INFO | 2024-07-27 15:52:02 | Extracted: Charles Schwab Corporation, 493.18, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: HDFC Bank, 464.34, India
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Jiangsu, 457.25, China
+INFO | 2024-07-27 15:52:02 | Extracted: Hana Financial Group, 456.47, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: Banco do Brasil, 447.72, Brazil
+INFO | 2024-07-27 15:52:02 | Extracted: Nationwide Building Society, 446.95, UnitedKingdom
+INFO | 2024-07-27 15:52:02 | Extracted: China Zheshang Bank, 443.37, China
+INFO | 2024-07-27 15:52:02 | Extracted: OCBC, 441.53, Singapore
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Shanghai, 435.14, China
+INFO | 2024-07-27 15:52:02 | Extracted: ABN AMRO, 417.72, Netherlands
+INFO | 2024-07-27 15:52:02 | Extracted: BNY, 409.88, UnitedStates
+INFO | 2024-07-27 15:52:02 | Extracted: United Overseas Bank, 396.62, Singapore
+INFO | 2024-07-27 15:52:02 | Extracted: Banco Bradesco, 394.76, Brazil
+INFO | 2024-07-27 15:52:02 | Extracted: Nonghyup Bank, 394.46, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: Nomura Holdings, 388.42, Japan
+INFO | 2024-07-27 15:52:02 | Extracted: Woori Financial Group, 382.05, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: KBC Group, 383.47, Belgium
+INFO | 2024-07-27 15:52:02 | Extracted: Caixa Econômica Federal, 377.29, Brazil
+INFO | 2024-07-27 15:52:02 | Extracted: Erste Group, 372.67, Austria
+INFO | 2024-07-27 15:52:02 | Extracted: Landesbank Baden-Württemberg, 368.41, Germany
+INFO | 2024-07-27 15:52:02 | Extracted: Bank of Ningbo, 365.96, China
+INFO | 2024-07-27 15:52:02 | Extracted: SEB Group, 358.79, Sweden
+INFO | 2024-07-27 15:52:02 | Extracted: Raiffeisen Group, 352.87, Switzerland
+INFO | 2024-07-27 15:52:02 | Extracted: Handelsbanken, 351.79, Sweden
+INFO | 2024-07-27 15:52:02 | Extracted: Industrial Bank of Korea, 345.81, SouthKorea
+INFO | 2024-07-27 15:52:02 | Extracted: DNB, 339.21, Norway
+INFO | 2024-07-27 15:52:02 | Extracted: Qatar National Bank, 338.14, Qatar
+INFO | 2024-07-27 15:52:02 | Extracted: VTB Bank, 326.85, Russia
+INFO | 2024-07-27 15:52:39 | Extracted: Industrial and Commercial Bank of China, 6303.44, China
+INFO | 2024-07-27 15:52:39 | Extracted: Agricultural Bank of China, 5623.12, China
+INFO | 2024-07-27 15:52:39 | Extracted: China Construction Bank, 5400.28, China
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of China, 4578.28, China
+INFO | 2024-07-27 15:52:39 | Extracted: JPMorgan Chase, 3875.39, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of America, 3180.15, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: HSBC, 2919.84, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: BNP Paribas, 2867.44, France
+INFO | 2024-07-27 15:52:39 | Extracted: Mitsubishi UFJ Financial Group, 2816.77, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Crédit Agricole, 2736.95, France
+INFO | 2024-07-27 15:52:39 | Extracted: Postal Savings Bank of China, 2217.86, China
+INFO | 2024-07-27 15:52:39 | Extracted: Citigroup, 2200.83, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: SMBC Group, 2027.34, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Banco Santander, 1986.36, Spain
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Communications, 1982.89, China
+INFO | 2024-07-27 15:52:39 | Extracted: Wells Fargo, 1932.47, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Mizuho Financial Group, 1923.56, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Barclays, 1891.72, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: Société Générale, 1717.49, France
+INFO | 2024-07-27 15:52:39 | Extracted: UBS, 1717.25, Switzerland
+INFO | 2024-07-27 15:52:39 | Extracted: Groupe BPCE, 1706.80, France
+INFO | 2024-07-27 15:52:39 | Extracted: Goldman Sachs, 1641.59, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Japan Post Bank, 1625.60, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Royal Bank of Canada, 1566.41, Canada
+INFO | 2024-07-27 15:52:39 | Extracted: China Merchants Bank, 1555.30, China
+INFO | 2024-07-27 15:52:39 | Extracted: Deutsche Bank, 1450.57, Germany
+INFO | 2024-07-27 15:52:39 | Extracted: Industrial Bank (China), 1432.59, China
+INFO | 2024-07-27 15:52:39 | Extracted: Toronto-Dominion Bank, 1428.29, Canada
+INFO | 2024-07-27 15:52:39 | Extracted: China CITIC Bank, 1276.63, China
+INFO | 2024-07-27 15:52:39 | Extracted: Crédit Mutuel, 1262.95, France
+INFO | 2024-07-27 15:52:39 | Extracted: Shanghai Pudong Development Bank, 1207.18, China
+INFO | 2024-07-27 15:52:39 | Extracted: Morgan Stanley, 1193.69, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Lloyds Banking Group, 1122.76, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: China Minsheng Bank, 1082.37, China
+INFO | 2024-07-27 15:52:39 | Extracted: ING Group, 1078.35, Netherlands
+INFO | 2024-07-27 15:52:39 | Extracted: Intesa Sanpaolo, 1066.74, Italy
+INFO | 2024-07-27 15:52:39 | Extracted: Scotiabank, 1041.11, Canada
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Montreal, 990.19, Canada
+INFO | 2024-07-27 15:52:39 | Extracted: China Everbright Bank, 955.14, China
+INFO | 2024-07-27 15:52:39 | Extracted: NatWest Group, 882.30, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: UniCredit, 872.90, Italy
+INFO | 2024-07-27 15:52:39 | Extracted: Commonwealth Bank, 868.74, Australia
+INFO | 2024-07-27 15:52:39 | Extracted: Banco Bilbao Vizcaya Argentaria, 857.25, Spain
+INFO | 2024-07-27 15:52:39 | Extracted: Standard Chartered, 822.84, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: La Banque postale, 815.91, France
+INFO | 2024-07-27 15:52:39 | Extracted: Ping An Bank, 787.93, China
+INFO | 2024-07-27 15:52:39 | Extracted: State Bank of India, 780.05, India
+INFO | 2024-07-27 15:52:39 | Extracted: ANZ Group, 769.59, Australia
+INFO | 2024-07-27 15:52:39 | Extracted: Canadian Imperial Bank of Commerce, 726.27, Canada
+INFO | 2024-07-27 15:52:39 | Extracted: DZ Bank, 712.49, Germany
+INFO | 2024-07-27 15:52:39 | Extracted: Norinchukin Bank, 702.03, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: National Australia Bank, 683.41, Australia
+INFO | 2024-07-27 15:52:39 | Extracted: Rabobank, 678.45, Netherlands
+INFO | 2024-07-27 15:52:39 | Extracted: CaixaBank, 671.13, Spain
+INFO | 2024-07-27 15:52:39 | Extracted: Westpac, 664.50, Australia
+INFO | 2024-07-27 15:52:39 | Extracted: U.S. Bancorp, 663.49, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Nordea, 662.71, Finland
+INFO | 2024-07-27 15:52:39 | Extracted: Capital One, 629.99, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Sberbank of Russia, 581.88, Russia
+INFO | 2024-07-27 15:52:39 | Extracted: Commerzbank, 571.64, Germany
+INFO | 2024-07-27 15:52:39 | Extracted: Huaxia Bank, 562.58, China
+INFO | 2024-07-27 15:52:39 | Extracted: PNC Financial Services, 561.58, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: DBS Group, 560.10, Singapore
+INFO | 2024-07-27 15:52:39 | Extracted: Itaú Unibanco, 555.72, Brazil
+INFO | 2024-07-27 15:52:39 | Extracted: KB Financial Group, 551.94, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: Danske Bank, 542.81, Denmark
+INFO | 2024-07-27 15:52:39 | Extracted: Truist Financial Corp, 535.35, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: Shinhan Financial Group, 533.48, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: Resona Holdings, 527.53, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Sumitomo Mitsui Trust Holdings, 520.34, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Beijing, 503.31, China
+INFO | 2024-07-27 15:52:39 | Extracted: China Guangfa Bank, 495.55, China
+INFO | 2024-07-27 15:52:39 | Extracted: Charles Schwab Corporation, 493.18, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: HDFC Bank, 464.34, India
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Jiangsu, 457.25, China
+INFO | 2024-07-27 15:52:39 | Extracted: Hana Financial Group, 456.47, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: Banco do Brasil, 447.72, Brazil
+INFO | 2024-07-27 15:52:39 | Extracted: Nationwide Building Society, 446.95, UnitedKingdom
+INFO | 2024-07-27 15:52:39 | Extracted: China Zheshang Bank, 443.37, China
+INFO | 2024-07-27 15:52:39 | Extracted: OCBC, 441.53, Singapore
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Shanghai, 435.14, China
+INFO | 2024-07-27 15:52:39 | Extracted: ABN AMRO, 417.72, Netherlands
+INFO | 2024-07-27 15:52:39 | Extracted: BNY, 409.88, UnitedStates
+INFO | 2024-07-27 15:52:39 | Extracted: United Overseas Bank, 396.62, Singapore
+INFO | 2024-07-27 15:52:39 | Extracted: Banco Bradesco, 394.76, Brazil
+INFO | 2024-07-27 15:52:39 | Extracted: Nonghyup Bank, 394.46, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: Nomura Holdings, 388.42, Japan
+INFO | 2024-07-27 15:52:39 | Extracted: Woori Financial Group, 382.05, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: KBC Group, 383.47, Belgium
+INFO | 2024-07-27 15:52:39 | Extracted: Caixa Econômica Federal, 377.29, Brazil
+INFO | 2024-07-27 15:52:39 | Extracted: Erste Group, 372.67, Austria
+INFO | 2024-07-27 15:52:39 | Extracted: Landesbank Baden-Württemberg, 368.41, Germany
+INFO | 2024-07-27 15:52:39 | Extracted: Bank of Ningbo, 365.96, China
+INFO | 2024-07-27 15:52:39 | Extracted: SEB Group, 358.79, Sweden
+INFO | 2024-07-27 15:52:39 | Extracted: Raiffeisen Group, 352.87, Switzerland
+INFO | 2024-07-27 15:52:39 | Extracted: Handelsbanken, 351.79, Sweden
+INFO | 2024-07-27 15:52:39 | Extracted: Industrial Bank of Korea, 345.81, SouthKorea
+INFO | 2024-07-27 15:52:39 | Extracted: DNB, 339.21, Norway
+INFO | 2024-07-27 15:52:39 | Extracted: Qatar National Bank, 338.14, Qatar
+INFO | 2024-07-27 15:52:39 | Extracted: VTB Bank, 326.85, Russia
+INFO | 2024-07-27 15:52:39 | Transformed: Industrial and Commercial Bank of China, USD 6303.44
+INFO | 2024-07-27 15:52:39 | Transformed: Agricultural Bank of China, USD 5623.12
+INFO | 2024-07-27 15:52:39 | Transformed: China Construction Bank, USD 5400.28
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of China, USD 4578.28
+INFO | 2024-07-27 15:52:39 | Transformed: JPMorgan Chase, USD 3875.39
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of America, USD 3180.15
+INFO | 2024-07-27 15:52:39 | Transformed: HSBC, USD 2919.84
+INFO | 2024-07-27 15:52:39 | Transformed: BNP Paribas, USD 2867.44
+INFO | 2024-07-27 15:52:39 | Transformed: Mitsubishi UFJ Financial Group, USD 2816.77
+INFO | 2024-07-27 15:52:39 | Transformed: Crédit Agricole, USD 2736.95
+INFO | 2024-07-27 15:52:39 | Transformed: Postal Savings Bank of China, USD 2217.86
+INFO | 2024-07-27 15:52:39 | Transformed: Citigroup, USD 2200.83
+INFO | 2024-07-27 15:52:39 | Transformed: SMBC Group, USD 2027.34
+INFO | 2024-07-27 15:52:39 | Transformed: Banco Santander, USD 1986.36
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Communications, USD 1982.89
+INFO | 2024-07-27 15:52:39 | Transformed: Wells Fargo, USD 1932.47
+INFO | 2024-07-27 15:52:39 | Transformed: Mizuho Financial Group, USD 1923.56
+INFO | 2024-07-27 15:52:39 | Transformed: Barclays, USD 1891.72
+INFO | 2024-07-27 15:52:39 | Transformed: Société Générale, USD 1717.49
+INFO | 2024-07-27 15:52:39 | Transformed: UBS, USD 1717.25
+INFO | 2024-07-27 15:52:39 | Transformed: Groupe BPCE, USD 1706.8
+INFO | 2024-07-27 15:52:39 | Transformed: Goldman Sachs, USD 1641.59
+INFO | 2024-07-27 15:52:39 | Transformed: Japan Post Bank, USD 1625.6
+INFO | 2024-07-27 15:52:39 | Transformed: Royal Bank of Canada, USD 1566.41
+INFO | 2024-07-27 15:52:39 | Transformed: China Merchants Bank, USD 1555.3
+INFO | 2024-07-27 15:52:39 | Transformed: Deutsche Bank, USD 1450.57
+INFO | 2024-07-27 15:52:39 | Transformed: Industrial Bank (China), USD 1432.59
+INFO | 2024-07-27 15:52:39 | Transformed: Toronto-Dominion Bank, USD 1428.29
+INFO | 2024-07-27 15:52:39 | Transformed: China CITIC Bank, USD 1276.63
+INFO | 2024-07-27 15:52:39 | Transformed: Crédit Mutuel, USD 1262.95
+INFO | 2024-07-27 15:52:39 | Transformed: Shanghai Pudong Development Bank, USD 1207.18
+INFO | 2024-07-27 15:52:39 | Transformed: Morgan Stanley, USD 1193.69
+INFO | 2024-07-27 15:52:39 | Transformed: Lloyds Banking Group, USD 1122.76
+INFO | 2024-07-27 15:52:39 | Transformed: China Minsheng Bank, USD 1082.37
+INFO | 2024-07-27 15:52:39 | Transformed: ING Group, USD 1078.35
+INFO | 2024-07-27 15:52:39 | Transformed: Intesa Sanpaolo, USD 1066.74
+INFO | 2024-07-27 15:52:39 | Transformed: Scotiabank, USD 1041.11
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Montreal, USD 990.19
+INFO | 2024-07-27 15:52:39 | Transformed: China Everbright Bank, USD 955.14
+INFO | 2024-07-27 15:52:39 | Transformed: NatWest Group, USD 882.3
+INFO | 2024-07-27 15:52:39 | Transformed: UniCredit, USD 872.9
+INFO | 2024-07-27 15:52:39 | Transformed: Commonwealth Bank, USD 868.74
+INFO | 2024-07-27 15:52:39 | Transformed: Banco Bilbao Vizcaya Argentaria, USD 857.25
+INFO | 2024-07-27 15:52:39 | Transformed: Standard Chartered, USD 822.84
+INFO | 2024-07-27 15:52:39 | Transformed: La Banque postale, USD 815.91
+INFO | 2024-07-27 15:52:39 | Transformed: Ping An Bank, USD 787.93
+INFO | 2024-07-27 15:52:39 | Transformed: State Bank of India, USD 780.05
+INFO | 2024-07-27 15:52:39 | Transformed: ANZ Group, USD 769.59
+INFO | 2024-07-27 15:52:39 | Transformed: Canadian Imperial Bank of Commerce, USD 726.27
+INFO | 2024-07-27 15:52:39 | Transformed: DZ Bank, USD 712.49
+INFO | 2024-07-27 15:52:39 | Transformed: Norinchukin Bank, USD 702.03
+INFO | 2024-07-27 15:52:39 | Transformed: National Australia Bank, USD 683.41
+INFO | 2024-07-27 15:52:39 | Transformed: Rabobank, USD 678.45
+INFO | 2024-07-27 15:52:39 | Transformed: CaixaBank, USD 671.13
+INFO | 2024-07-27 15:52:39 | Transformed: Westpac, USD 664.5
+INFO | 2024-07-27 15:52:39 | Transformed: U.S. Bancorp, USD 663.49
+INFO | 2024-07-27 15:52:39 | Transformed: Nordea, USD 662.71
+INFO | 2024-07-27 15:52:39 | Transformed: Capital One, USD 629.99
+INFO | 2024-07-27 15:52:39 | Transformed: Sberbank of Russia, USD 581.88
+INFO | 2024-07-27 15:52:39 | Transformed: Commerzbank, USD 571.64
+INFO | 2024-07-27 15:52:39 | Transformed: Huaxia Bank, USD 562.58
+INFO | 2024-07-27 15:52:39 | Transformed: PNC Financial Services, USD 561.58
+INFO | 2024-07-27 15:52:39 | Transformed: DBS Group, USD 560.1
+INFO | 2024-07-27 15:52:39 | Transformed: Itaú Unibanco, USD 555.72
+INFO | 2024-07-27 15:52:39 | Transformed: KB Financial Group, USD 551.94
+INFO | 2024-07-27 15:52:39 | Transformed: Danske Bank, USD 542.81
+INFO | 2024-07-27 15:52:39 | Transformed: Truist Financial Corp, USD 535.35
+INFO | 2024-07-27 15:52:39 | Transformed: Shinhan Financial Group, USD 533.48
+INFO | 2024-07-27 15:52:39 | Transformed: Resona Holdings, USD 527.53
+INFO | 2024-07-27 15:52:39 | Transformed: Sumitomo Mitsui Trust Holdings, USD 520.34
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Beijing, USD 503.31
+INFO | 2024-07-27 15:52:39 | Transformed: China Guangfa Bank, USD 495.55
+INFO | 2024-07-27 15:52:39 | Transformed: Charles Schwab Corporation, USD 493.18
+INFO | 2024-07-27 15:52:39 | Transformed: HDFC Bank, USD 464.34
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Jiangsu, USD 457.25
+INFO | 2024-07-27 15:52:39 | Transformed: Hana Financial Group, USD 456.47
+INFO | 2024-07-27 15:52:39 | Transformed: Banco do Brasil, USD 447.72
+INFO | 2024-07-27 15:52:39 | Transformed: Nationwide Building Society, USD 446.95
+INFO | 2024-07-27 15:52:39 | Transformed: China Zheshang Bank, USD 443.37
+INFO | 2024-07-27 15:52:39 | Transformed: OCBC, USD 441.53
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Shanghai, USD 435.14
+INFO | 2024-07-27 15:52:39 | Transformed: ABN AMRO, USD 417.72
+INFO | 2024-07-27 15:52:39 | Transformed: BNY, USD 409.88
+INFO | 2024-07-27 15:52:39 | Transformed: United Overseas Bank, USD 396.62
+INFO | 2024-07-27 15:52:39 | Transformed: Banco Bradesco, USD 394.76
+INFO | 2024-07-27 15:52:39 | Transformed: Nonghyup Bank, USD 394.46
+INFO | 2024-07-27 15:52:39 | Transformed: Nomura Holdings, USD 388.42
+INFO | 2024-07-27 15:52:39 | Transformed: Woori Financial Group, USD 382.05
+INFO | 2024-07-27 15:52:39 | Transformed: KBC Group, USD 383.47
+INFO | 2024-07-27 15:52:39 | Transformed: Caixa Econômica Federal, USD 377.29
+INFO | 2024-07-27 15:52:39 | Transformed: Erste Group, USD 372.67
+INFO | 2024-07-27 15:52:39 | Transformed: Landesbank Baden-Württemberg, USD 368.41
+INFO | 2024-07-27 15:52:39 | Transformed: Bank of Ningbo, USD 365.96
+INFO | 2024-07-27 15:52:39 | Transformed: SEB Group, USD 358.79
+INFO | 2024-07-27 15:52:39 | Transformed: Raiffeisen Group, USD 352.87
+INFO | 2024-07-27 15:52:39 | Transformed: Handelsbanken, USD 351.79
+INFO | 2024-07-27 15:52:39 | Transformed: Industrial Bank of Korea, USD 345.81
+INFO | 2024-07-27 15:52:39 | Transformed: DNB, USD 339.21
+INFO | 2024-07-27 15:52:39 | Transformed: Qatar National Bank, USD 338.14
+INFO | 2024-07-27 15:52:39 | Transformed: VTB Bank, USD 326.85
+INFO | 2024-07-27 15:52:39 | Data saved to files/bankdb.db in table marketCap_tb.
+INFO | 2024-07-27 15:52:39 | Data saved to files/marketcap.json.
+INFO | 2024-07-27 15:52:39 | Data saved to files/marketcap.csv.
