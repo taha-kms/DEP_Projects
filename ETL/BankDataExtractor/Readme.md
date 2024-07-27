@@ -52,18 +52,5 @@ python main.py
 
 Logs are saved in `files/log.txt`, and they contain information about the ETL process and any errors that occur.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to fork the repository, make changes, and submit a pull request. Contributions and improvements are welcome!
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com].
-
----
 
 Feel free to modify any details as needed to better fit your project or personal preferences!
